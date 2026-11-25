@@ -169,3 +169,12 @@ main {
 .hidden {
   display: none;
 }
+
+/* Contact footer: stack page content so the footer sits below the game */
+body {
+  flex-direction: column;
+  gap: 1.5rem;
+  padding: 2rem 0;
+  height: auto;
+  min-height: 100vh;
+}
