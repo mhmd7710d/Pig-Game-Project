@@ -17,3 +17,8 @@ Live demo: https://mhmd7710d.github.io/Pig-Game-Project/
 
 ## Credits
 A learning project based on Jonas Schmedtmann's Complete JavaScript Course.
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/muhammad-fathi-b7a693424/
+- Email: muhammutfathi@gmail.com
+- WhatsApp: https://wa.me/201040428475?text=Hi+Mohamed%2C+I+found+your+project+on+GitHub.
