@@ -178,3 +178,10 @@ body {
   height: auto;
   min-height: 100vh;
 }
+
+/* game-scale: shrink the fixed-size board proportionally on narrow screens */
+@media (max-width: 1020px) {
+  html {
+    font-size: 0.95vw;
+  }
+}
