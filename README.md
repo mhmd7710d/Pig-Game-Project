@@ -1,19 +1,25 @@
 # Pig Game
 
-A two-player dice game built with HTML, CSS, and vanilla JavaScript. Roll, hold, and race to 100 points.
+A two-player dice game on one screen. Roll to collect points, hold to keep them, and race to 100.
+
+**Play it:** https://mhmd7710d.github.io/Pig-Game-Project/
+
+![Preview](preview.jpg)
+
+## How to play
+1. Player 1 starts. Press **Roll dice** to add a roll to the current score.
+2. Press **Hold** to add the current score to your total and pass the turn.
+3. Rolling a 1 throws away the current score and passes the turn.
+4. The first player to reach 100 wins. **New game** resets everything.
 
 ## Built with
-HTML, CSS and JavaScript.
+Plain HTML, CSS and JavaScript. No libraries and no build step.
 
-## How to run
-Open the live demo, or download this repository and open index.html in a browser.
+## What I practised
+Game state in variables, functions and event handlers, random numbers, conditionals, and updating the page and the player highlight from JavaScript.
 
-Live demo: https://mhmd7710d.github.io/Pig-Game-Project/
-
-## Features
-- Two players on one screen: roll to collect points, hold to keep them.
-- Rolling a 1 loses the current points and passes the turn.
-- First player to 100 points wins.
+## Run it locally
+Download the repository and open `index.html` in a browser.
 
 ## Credits
 A learning project based on Jonas Schmedtmann's Complete JavaScript Course.
